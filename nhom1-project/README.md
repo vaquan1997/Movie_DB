@@ -3,10 +3,6 @@
 
 Go to website - [Link](https://sp-cinemamovie.netlify.app)
 
-## Project Description
-
-- Cafe Milk, a cafe.
-
 ## Features
 > Features that I would like to introduce.
 
