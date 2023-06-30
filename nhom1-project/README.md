@@ -27,34 +27,3 @@ Go to website - [Link](https://sp-cinemamovie.netlify.app)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 
-## Installation
-1. Clone the repo
-```
-git clone https://github.com/SunilPark1129/re-cinema-movie.git
-```
-2. Install all dependencies
-```
-npm install
-```
-> Dependencies I have installed :<br>axios<br> react-router-dom<br> styled components<br> font awesome<br> 
-
-3. run the website
-```
-npm start
-```
-
-## Self-improvement
-> In the past, while creating a website, I took note of the parts that could be improved or that were difficult at the time to develop the website.
-So I updated the old website with reference to this note for self-development. My Old Site - [Link](https://github.com/SunilPark1129/cinema-movie)
-
-- [x] I need to improve the naming of files and folders so that other developers can see and understand their meaning at once.
-  - Elements are written with related names to indicate what they mean. I've been studying a lot, but I think I still need to study more.
-- [x] I need to learn more about which folder to put the files in.
-  - Compared to the past, I'm much better at organizing folders, but I need to study more.
-- [x] I need to make more reusable React Hooks and UI components of repetitive coding.
-  - Repetitive coding is reused through components to optimize repeated coding.
-- [x] In order to improve website speed, I should become more proficient in the usage of useState, useEffect, and rendering.
-  - In the previous version, 60 movie lists were loaded at a time, which overloaded the performance of both the client and server side. So, I reduced the request limit to 20. In addition, I optimized the performance by using useState and useEffect in each component.
-
-## Project Status
-Completed
